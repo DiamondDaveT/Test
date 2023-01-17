@@ -1,2 +1,2 @@
 This is some test text.
-This is second line.
+This is a second line.
