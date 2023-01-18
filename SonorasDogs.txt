@@ -1,3 +1,4 @@
+SonorasDogs.txt
 1) GermanShepard_Sonora
 2) Husky_Yuanjie
 3) Poodle_David
