@@ -13,3 +13,8 @@ Dylan's Insects
 2. Ant_Yuanjie
 3. Mosquito_David
 4. Bee_Sonora
+Sonora's Dogs
+1. GermanShepard_Sonora
+2. Husky_Yuanjie
+3. Poodle_David
+4. Corgi_Dylan
